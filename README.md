@@ -44,3 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## The game
+
+The game is a Typescript port of the['react-simple-snake'](https://github.com/MaelDrapier/react-simple-snake) from Maël Drapier
+It was made as an exercise to analyze how to write a simple game in react.
+
